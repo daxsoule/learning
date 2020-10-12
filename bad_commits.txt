@@ -1,0 +1,64 @@
+Five good commits
+commit facb1740c78a63ad903009c176b7b5373f0b527a (HEAD -> master, origin/master, origin/HEAD)
+Author: Dax Soule <dax.soule@gmail.com>
+Date:   Mon Dec 30 18:19:03 2019 +0000
+
+    Added loop to indentify local minimums
+    
+commit 644775392d4cc1698c6754e04995f4248828ade8
+Author: Dax Soule <dax.soule@qc.cuny.edu>
+Date:   Tue Nov 5 16:57:27 2019 +0000
+
+    Added plots for seismic and botpt
+
+commit bec956f2fee6b9b6a8d4b531bf8fca7f29783369
+Author: Dax Soule <dax.soule@qc.cuny.edu>
+Date:   Tue Nov 5 14:22:51 2019 +0000
+
+    Added M2M example
+    
+commit 7ae2cdd56469934d3910530bf5e9411121829300
+Author: Dax Soule <dax.soule@qc.cuny.edu>
+Date:   Mon Oct 21 10:22:07 2019 +0000
+
+    Added working downsample
+    
+commit 65421b67a60c680516aa050c7b91ee3a7174e392
+Author: Dax Soule <dax.soule@qc.cuny.edu>
+Date:   Fri Dec 20 14:31:47 2019 +0000
+
+    Allow variable input for container
+
+
+Five Poor Commits
+commit 566dc80320662bd3933422b7bf46b63a0689c6b2
+Author: Joshua Sacker <joshss1236@gmail.com>
+Date:   Mon Dec 2 17:56:30 2019 +0000
+
+    progress
+    
+commit f1712c3707290bba6d9601dc23421d53d736ae25
+Merge: 086ffb4 6d80e33
+Author: Dax Soule <dax.soule@qc.cuny.edu>
+Date:   Wed Nov 27 18:43:31 2019 +0000
+
+    fixed mess
+    
+commit 30d051231bb8f6f053ab3ea42b9377426dfda6ee
+Author: Dax Soule <dax.soule@qc.cuny.edu>
+Date:   Wed Dec 18 14:02:21 2019 +0000
+
+    Added something
+    
+commit 2a0313be3aceaba1df6c059a5e20920ecb2a7c8d
+Author: jnatalie12 <jazlynnatalie12@gmail.com>
+Date:   Tue Sep 24 06:20:16 2019 +0000
+
+    forecasting methods
+    
+commit 4b0e8dd8c22a5e0afba0a89a027d859907272774
+Merge: 110bde5 0e7761c
+Author: Emilio Tesin <eltesin@gmail.com>
+Date:   Mon Oct 15 03:01:03 2018 +0000
+
+    first
